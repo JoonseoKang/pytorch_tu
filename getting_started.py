@@ -70,3 +70,4 @@ if torch.cuda.is_available():
     print(z)
     print(z.to("cpu", torch.double))       # ``.to`` 는 dtype도 함께 변경합니다!
 
+#수정해본거 2
